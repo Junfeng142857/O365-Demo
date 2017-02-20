@@ -1,0 +1,10 @@
+Url,Owner,StorageQuota,ResourceQuota,Template,Title
+https://yourdomain.sharepoint.com/sites/accounting,tom@yourdomain.onmicrosoft.com,100,50,STS#0,Accounting
+https://yourdomain.sharepoint.com/sites/hr,tom@yourdomain.onmicrosoft.com,100,50,STS#0,HR
+https://yourdomain.sharepoint.com/sites/tsp,tom@yourdomain.onmicrosoft.com,100,50,STS#0,TSP
+https://yourdomain.sharepoint.com/sites/marketing,tom@yourdomain.onmicrosoft.com,100,50,STS#0,Administration
+https://yourdomain.sharepoint.com/sites/cio,tom@yourdomain.onmicrosoft.com,100,50,STS#0,Compliance
+https://yourdomain.sharepoint.com/sites/legal,tom@yourdomain.onmicrosoft.com,100,50,STS#0,Legal
+https://yourdomain.sharepoint.com/sites/sales,tom@yourdomain.onmicrosoft.com,100,50,STS#0,Sales
+
+
